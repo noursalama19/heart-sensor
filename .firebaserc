@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "big-hero-6-423de": {
+      "hosting": {
+        "sensorproject": [
+          "big-hero-6-423de"
+        ]
+      }
+    },
+    "big-hero6-v2": {
+      "hosting": {
+        "sensorproject": [
+          "big-hero6-v2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "big-hero-6-423de"
+  }
+}
